@@ -1,4 +1,13 @@
 <resources>
     <string name="app_name">AboutMe</string>
     <string name="name">Orlando Alvarez</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">
+        Hola, mi nombre es Orlando Alvarez.
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec accumsan ipsum ac dolor volutpat malesuada. Quisque ac nibh massa. Vestibulum lacinia ut risus eu cursus. Sed venenatis non diam in eleifend. Sed pharetra quis metus sit amet lobortis. Phasellus mollis varius iaculis. Ut faucibus nisl sem, vel feugiat leo facilisis at. Quisque imperdiet justo at erat bibendum, sed faucibus dolor fermentum. Curabitur ut ligula pretium, imperdiet ante sed, aliquam velit. Morbi semper massa et justo fermentum molestie. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Ut non dui sollicitudin lorem convallis dignissim.
+        Maecenas a interdum massa, in bibendum urna. Nunc venenatis ex ut ex tincidunt malesuada. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam molestie ante et felis dictum, ut mollis urna dictum. Donec erat neque, condimentum nec sem eget, lobortis tincidunt risus. Nullam vitae lacus at mi scelerisque auctor turpis. Integer suscipit ante et ante semper, sed eleifend lacus feugiat. Vestibulum nec ante maximus, feugiat mi eget, semper neque. Maecenas non convallis neque. Ut sit amet commodo lorem. Fusce fringilla, sem sit amet mollis ultrices, elit tortor pulvinar turpis, a tempus mi mauris ut quam.
+        Donec sodales diam id venenatis suscipit. Praesent tincidunt lacinia nibh id blandit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Donec vitae porta sapien, ac tincidunt enim. Proin id ultrices nulla. Etiam a porta libero. Donec id orci ut massa venenatis pretium et nec lectus. Integer efficitur aliquet ligula, in efficitur eros commodo sed. Aliquam ultrices odio at tortor accumsan, quis pulvinar nunc efficitur. Suspendisse in felis lacus. Pellentesque felis risus, ullamcorper in pharetra vel, accumsan nec ex. Maecenas bibendum aliquet tortor in porttitor. In vitae orci eget purus auctor bibendum.
+    </string>
+    <string name="what_is_yout_nickname">Cual es tu apodo mano</string>
+    <string name="done">Done</string>
 </resources>
